@@ -1,0 +1,7 @@
+div.darken {
+    transition: box-shadow 0.5s;
+}
+
+div.darken:hover {
+    box-shadow: 5px 5px 10px 10px gray;
+}
